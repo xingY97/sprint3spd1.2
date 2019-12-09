@@ -1,0 +1,16 @@
+body {
+    color:yellowgreen;
+}
+
+.navbar {
+    padding 1rem;
+    background-color: blue;
+  }
+
+  
+  .btn-primary:hover {
+    background-color: red;
+    color: white;
+  }
+
+
