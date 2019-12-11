@@ -3,6 +3,10 @@
   margin-bottom: 2rem;
   background-color:grey;
   border-radius: 0.0rem;
+
+  background-image: url('/Users/xin/makeSchool/spd 1.2/sprint3/marvin-meyer-SYTO3xs06fU-unsplash.jpg');
+  background-size : cover;
+  background-repeat: no-repeat;
 }
 
 .btn-primary {
